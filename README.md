@@ -13,3 +13,7 @@ I have developped Deep Convolutional Neural Networks to classify Trash images us
 *the last step is model evaluation
 
 After aplying only all the above steps, we have obtained a test accuracy = 0.91, and a test loss = 0.28
+
+# Author
+
+This project has been developed by Mostefa Ben naceur https://fr.linkedin.com/in/mostefabennaceurphd
