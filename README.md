@@ -1,6 +1,6 @@
 # Trash classification
 
-I have developped Deep Convolutional Neural Networks to classify Trash images using keras as a Deep Learning library with Tensorflow as backend, this system is designed to classify glass from plastic where this smart system can be used as a machine's engine.  The pipeline of the is model as follows:
+I have developped Deep Convolutional Neural Networks to classify Trash images using keras as a Deep Learning library with Tensorflow as backend, this system is designed to classify glass from plastic where this smart system can be used as a machine's engine.  The pipeline of the model is as follows:
 
 *First step is: the imports
 *Second step is: data collection
