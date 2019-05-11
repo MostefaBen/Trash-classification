@@ -7,8 +7,8 @@ I have developped Deep Convolutional Neural Networks to classify Trash images us
 *third step is: data preparation
 *fourth step is data normalization
 *fifth step is data tranformation and augmentation
-*sixth step is: to define the model
-*seventh step is: to compile the created model, thus this model will become as a computaional graph
+*sixth step is: defining the model
+*seventh step is: compiling the created model, thus this model will become as a computaional graph
 *eighth step: after doing all above steps, we can start the model training
 *the last step is model evaluation
 
