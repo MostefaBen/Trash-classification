@@ -20,6 +20,21 @@ After aplying only all the above steps, we have obtained a test accuracy = 0.91,
 
 ##2 The modified dataset can be downloaded from https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE
 
+# Usage
+
+### download dataset
+
+### download source code files
+
+### Install Anaconda then launch Spyder
+
+### Paste the source code
+
+### Train the model
+
+### Test the model
+
+
 # Author
 
 This project has been developed by Mostefa Ben naceur https://fr.linkedin.com/in/mostefabennaceurphd
