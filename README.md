@@ -22,17 +22,17 @@ After aplying only all the above steps, we have obtained a test accuracy = 0.91,
 
 # Usage
 
-### download dataset
+##1 download dataset
 
-### download source code files
+##2 download source code files
 
-### Install Anaconda then launch Spyder
+##2 Install Anaconda then launch Spyder
 
-### Paste the source code
+##4 Paste the source code
 
-### Train the model
+##5 Train the model
 
-### Test the model
+##6 Test the model
 
 
 # Author
