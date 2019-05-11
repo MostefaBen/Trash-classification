@@ -22,9 +22,9 @@ After aplying only all the above steps, we have obtained a test accuracy = 0.91,
 
 # Usage
 
-##1 download dataset
+##1 Download the dataset
 
-##2 download source code files 'Trash-classification'
+##2 Download source code files 'Trash-classification'
 
 ##2 Install Anaconda then launch Spyder
 
