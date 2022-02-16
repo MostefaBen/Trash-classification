@@ -26,7 +26,7 @@ After aplying only all the above steps, we have obtained a test accuracy = 0.91,
 
 ##1 The dataset has six classes: glass, paper, cardboard, plastic, metal, and trash. Where the original dataset consists of 2527 images, in this project, I used only 501 glass images, and 482 plastic images.
 
-##2 The modified dataset can be downloaded from https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE
+##2 The modified dataset can be downloaded from https://bit.ly/3mcb3aS
 
 # Usage
 
